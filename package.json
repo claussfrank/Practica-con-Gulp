@@ -1,0 +1,25 @@
+{
+  "name": "gulp-dos",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[Dejercicio de gulp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Clauss Frank",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "files-exist": "^1.0.2",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-obfuscate": "^0.2.9",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
